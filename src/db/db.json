@@ -1,0 +1,19 @@
+{
+  "musics": [
+    {
+      "id": 1,
+      "author": "Bruna Karla",
+      "text": "Sou Humano"
+    },
+    {
+      "id": 2,
+      "author": "Jamilly",
+      "text": "Conquistando o Impossível"
+    },
+    {
+      "author": "Bruna Karla",
+      "text": "Advogado FIel",
+      "id": 3
+    }
+  ]
+}
